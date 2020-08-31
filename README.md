@@ -1,2 +1,6 @@
 # songbaiv7
-Ghi thông tin website vào đây (thông tin về trang web, không phải là bio của mình)
+Ghi các thông tin của trang web mình vào, kèm theo các nội dung cho SEO (kèm theo các MXH chính)
+abcde
+"</br>" => Ký hiệu này là dùng để xuống dòng </br>
+https://songbaiv7.com </br>
+facebook.com
